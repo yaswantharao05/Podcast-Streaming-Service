@@ -4,29 +4,28 @@
 </h1>
 
 <div align="center">
-    ![Home Page](https://drive.google.com/file/d/1QojHXeDCdxGET4XZqKcQ9FEaxexmHIJ2/view?usp=sharing)
-    
-    Opening Screen
+  <img src="https://drive.google.com/uc?export=view&id=1QojHXeDCdxGET4XZqKcQ9FEaxexmHIJ2" alt="Opening Screen" width="600"/><br/>
+  <i>Opening Screen</i>
 </div>
 
 ---
 
 ## 🎙️ About Pulseplay
 
-**Pulseplay** is a sleek, modern, and responsive web application designed for seamless **music and podcast streaming**. Whether you're vibing to trending beats or diving into deep podcast discussions, Pulseplay is your go-to digital audio platform.
+**Pulseplay** is a sleek, modern, and responsive web application designed for seamless **music and podcast streaming**. Whether you're vibing to trending beats or diving into insightful podcast discussions, Pulseplay is your go-to digital audio destination.
 
-Built with **React.js**, it delivers fast, intuitive navigation and a smooth user experience across devices.
+Crafted using **React.js**, the app ensures fast loading, smooth transitions, and a great user experience across all devices.
 
 ---
 
 ## 🌐 Screenshots
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1ecbIOcLdLpgUeKzObeiyX7bbYQMg1afN/view?usp=sharing" alt="Home Page" width="600"/><br/>
-  <i>Home Page – Browse top charts, genres & curated playlists</i><br/><br/>
+  <img src="https://drive.google.com/uc?export=view&id=1ecbIOcLdLpgUeKzObeiyX7bbYQMg1afN" alt="Home Page" width="600"/><br/>
+  <i>Home Page – Browse top charts, trending content, and curated playlists</i><br/><br/>
 
-  <img src="https://drive.google.com/file/d/1c8GNBCt4XGPT1pn1mHSrXi-Queg5Pk70/view?usp=sharing" alt="Profile Page" width="600"/><br/>
-  <i>Profile Page – View listening history and customize preferences</i>
+  <img src="https://drive.google.com/uc?export=view&id=1c8GNBCt4XGPT1pn1mHSrXi-Queg5Pk70" alt="Profile Page" width="600"/><br/>
+  <i>Profile Page – Customize your listening experience and track activity</i>
 </div>
 
 ---
@@ -42,24 +41,26 @@ Built with **React.js**, it delivers fast, intuitive navigation and a smooth use
 - [Context API](https://reactjs.org/docs/context.html)
 - [SCSS](https://sass-lang.com/)
 
-### 🔊 Features
-- 🎧 Play & Pause Music/Podcasts
-- 📁 Curated Music & Podcast Categories
-- 🧠 Personalized Recommendations
-- 🔎 Search by title, genre, or creator
-- 🔒 User Profiles & Preferences
-- 🌙 Light/Dark Theme Support (optional)
+---
+
+## 🔥 Features
+- 🎧 Stream music and podcasts seamlessly
+- 🔍 Powerful search by title, genre, or creator
+- 🧠 Smart recommendations based on your activity
+- 📁 Explore curated playlists and trending podcasts
+- 👤 Manage profile and listening history
+- 🌙 Optional dark/light mode toggle for accessibility
 
 ---
 
-## ✨ Getting Started
+## 🚀 Getting Started
 
 ```bash
 # Clone this repository
 git clone https://github.com/yaswantharao05/Podcast-Streaming-Service.git
 
 # Navigate into the project directory
-cd pulseplay
+cd Podcast-Streaming-Service
 
 # Install dependencies
 npm install
