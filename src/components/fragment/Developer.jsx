@@ -22,7 +22,7 @@ const Developer = () => {
 
         {/* Social Media Links */}
         <div className="Developer-profileDetails">
-          <p>Connect with us on social media!</p>
+          <p>Connect with me on social media!</p>
           <div className="Card-btn">
             <IconButton target={"_blank"} href={"https://www.facebook.com/yaswantha.paragada/"} title={"Yaswantha"}>
               <Facebook />
