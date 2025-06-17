@@ -4,8 +4,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1QojHXeDCdxGET4XZqKcQ9FEaxexmHIJ2/view?usp=sharing" alt="Opening Screen" width="600"/><br/>
-  <i>Opening Screen</i>
+    ![Home Page](https://drive.google.com/file/d/1QojHXeDCdxGET4XZqKcQ9FEaxexmHIJ2/view?usp=sharing)
+    <br/>
+    <i>Opening Screen</i>
 </div>
 
 ---
