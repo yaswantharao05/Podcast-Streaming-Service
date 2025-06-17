@@ -5,8 +5,8 @@
 
 <div align="center">
     ![Home Page](https://drive.google.com/file/d/1QojHXeDCdxGET4XZqKcQ9FEaxexmHIJ2/view?usp=sharing)
-    <br/>
-    <i>Opening Screen</i>
+    
+    Opening Screen
 </div>
 
 ---
