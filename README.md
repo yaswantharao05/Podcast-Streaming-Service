@@ -20,7 +20,7 @@ Crafted using **React.js**, the app ensures fast loading, smooth transitions, an
 
 ## 🌍 Live Demo
 
-🔗 [Click here to try Pulseplay](https://podcast-streaming-service-yaswantha-rao-p-s-projects.vercel.app/)
+🔗 [Click here to try Pulseplay](https://yaswantharao-podcast-streaming-servi-yaswantha-rao-p-s-projects.vercel.app/)
 
 ---
 
