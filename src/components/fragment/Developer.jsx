@@ -33,7 +33,7 @@ const Developer = () => {
             <IconButton target={"_blank"} href={"http://www.linkedin.com/in/yaswantharao"} title={"Yaswantha"}>
               <LinkedIn />
             </IconButton>
-            <IconButton target={"_blank"} href={"https://www.instagram.com/heyrao_//"} title={"Yaswantha"}>
+            <IconButton target={"_blank"} href={"https://www.instagram.com/heyrao_"} title={"Yaswantha"}>
               <Instagram />
             </IconButton>
           </div>
