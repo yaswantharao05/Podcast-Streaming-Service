@@ -32,10 +32,10 @@ function Profile() {
             src={require("../assets/img/avatar2.jpg")}
             style={{ width: "150px", height: "150px" }}
           >
-            SR
+            YR
           </Avatar>
           <div className="profile-detail">
-            <h3>Sai Sriram Reddy</h3>
+            <h3>Yaswantha Rao P</h3>
             <span className={"profile-playlist"}>
               <SideBarOptions
                 className={"lib-sub"}
