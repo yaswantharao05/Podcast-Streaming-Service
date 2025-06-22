@@ -15,7 +15,7 @@
 **Pulseplay** is a sleek, modern, and responsive web application designed for seamless **music and podcast streaming**. Whether you're vibing to trending beats or diving into insightful podcast discussions, Pulseplay is your go-to digital audio destination.
 
 Crafted using **React.js**, the app ensures fast loading, smooth transitions, and a great user experience across all devices.
-
+ 
 ---
 
 ## 🌍 Live Demo
