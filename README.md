@@ -48,7 +48,7 @@ Crafted using **React.js**, the app ensures fast loading, smooth transitions, an
 - [SCSS](https://sass-lang.com/)
 
 ---
-
+ 
 ## 🔥 Features
 - 🎧 Stream music and podcasts seamlessly
 - 🔍 Powerful search by title, genre, or creator
