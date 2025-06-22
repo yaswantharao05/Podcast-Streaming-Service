@@ -16,7 +16,7 @@
 
 Crafted using **React.js**, the app ensures fast loading, smooth transitions, and a great user experience across all devices.
  
----
+--- 
 
 ## 🌍 Live Demo
 
